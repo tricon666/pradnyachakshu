@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+Disallow: /assets/
+
+Sitemap: https://pradnyachakshu.org/sitemap.xml
